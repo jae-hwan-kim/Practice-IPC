@@ -1,0 +1,9 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "_sigset_t.h": "c",
+        "_size_t.h": "c",
+        "stdlib.h": "c",
+        "signal.h": "c"
+    }
+}
